@@ -15,6 +15,9 @@ $(call inherit-product, vendor/cherish/config/common_full_phone.mk)
 # Inherit from ulova device
 $(call inherit-product, device/xiaomi/ulova/device.mk)
 
+# Overlay
+DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-cherish
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ulova
 PRODUCT_NAME := cherish_ulova
