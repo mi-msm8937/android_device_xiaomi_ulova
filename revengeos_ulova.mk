@@ -15,6 +15,9 @@ $(call inherit-product, vendor/revengeos/config/common.mk)
 # Inherit from ulova device
 $(call inherit-product, device/xiaomi/ulova/device.mk)
 
+# Overlay
+DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay-revengeos
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := ulova
 PRODUCT_NAME := revengeos_ulova
