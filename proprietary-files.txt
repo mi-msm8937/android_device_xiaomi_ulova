@@ -3,6 +3,7 @@
 # daisy Package version: daisy-user 10 QKQ1.191002.002 V11.0.18.0.QDLMIXM release-keys
 # rolex Package version: rolex-user 7.1.2 N2G47H V10.2.3.0.NCCMIXM release-keys
 # riva Package version: riva-user 7.1.2 N2G47H V10.1.1.0.NCKMIFI release-keys
+# riva Oreo Package version: Xiaomi/riva/riva:8.1.0/OPM1.171019.026/V11.0.2.0.OCKMIXM:user/release-keys
 
 # ACDB - from ugg
 vendor/etc/ulysse_acdbdata/MTP/MTP_Bluetooth_cal.acdb
@@ -13,7 +14,7 @@ vendor/etc/ulysse_acdbdata/MTP/MTP_Hdmi_cal.acdb
 vendor/etc/ulysse_acdbdata/MTP/MTP_Headset_cal.acdb
 vendor/etc/ulysse_acdbdata/MTP/MTP_Speaker_cal.acdb
 
-# ACDB - from riva
+# ACDB - from riva Oreo
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Bluetooth_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_General_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Global_cal.acdb
@@ -21,13 +22,6 @@ vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Handset_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Hdmi_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Headset_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8917-tmo-snd-card/QRD_TMO_Speaker_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Bluetooth_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_General_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Global_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Handset_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Hdmi_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Headset_cal.acdb
-vendor/etc/rova_acdbdata/QRD/msm8920-sku7-snd-card/QRD_SKU7_Speaker_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Bluetooth_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_General_cal.acdb
 vendor/etc/rova_acdbdata/QRD/msm8940-sku6-snd-card/QRD_SKU6_Global_cal.acdb
@@ -49,6 +43,7 @@ vendor/etc/rova_acdbdata/QRD/QRD_Handset_cal.acdb
 vendor/etc/rova_acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/rova_acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/rova_acdbdata/QRD/QRD_Speaker_cal.acdb
+vendor/etc/rova_acdbdata/QRD/QRD_workspaceFile.qwsp
 
 # Camera - from ugg
 vendor/bin/ulysse_mm-qcamera-daemon
